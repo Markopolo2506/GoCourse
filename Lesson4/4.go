@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./calculator"
+	"GoCourse/Lesson4/calculator"
 )
 
 func main() {
